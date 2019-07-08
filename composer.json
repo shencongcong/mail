@@ -1,0 +1,17 @@
+{
+    "name": "shencongcong\/mail",
+    "description": "a easy send mail",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shencongcong",
+            "email": "1343948033@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Shencongcong\\Mail\\": "src"
+        }
+    }
+}
